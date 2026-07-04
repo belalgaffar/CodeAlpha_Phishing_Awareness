@@ -10,4 +10,5 @@ This repository contains a comprehensive presentation designed for Phishing Awar
 * Includes an interactive quiz for user engagement.
 
 Prepared by: Belal Gafer
+
 Domain: Cybersecurity Internship - Task 2
