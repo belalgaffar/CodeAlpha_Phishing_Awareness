@@ -9,6 +9,5 @@ This repository contains a comprehensive presentation designed for Phishing Awar
 * Provides real-world examples and best practices for protection.
 * Includes an interactive quiz for user engagement.
 
-Prepared by: Belal Gafer
-
+Prepared by: Belal Gaffar
 Domain: Cybersecurity Internship - Task 2
